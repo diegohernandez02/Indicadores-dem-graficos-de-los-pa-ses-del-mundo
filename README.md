@@ -1,5 +1,5 @@
 # Indicadores demográficos de los países del mundo
-Dashboard que informa acerca de la población, promedio de esperanza de vida y mortalidad por cada mil niños de todos los páises del mundo. Realizado en función de la BD brindada por el Tío Tech en el módulo 3 del curso de Power BI
+Dashboard que informa acerca de la población, promedio de esperanza de vida y mortalidad por cada mil niños de todos los páises del mundo. (actualizados a Noviembre del 2024)- Realizado en función de la BD brindada por el Tío Tech en el módulo 3 del curso de Power BI
 
 Procedimiento:
 1. Carga de archivos
